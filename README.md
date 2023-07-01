@@ -1,3 +1,4 @@
+From an older github account that I lost access to
 # HolyRunGameJam
 
 This was a game I made in 24 hours. At the time, it was my first Unity project in a long time. There are a few bugs, but it would defeat the purpose of the challenge. The only bug I know of now is when you quit to the main menu to start the game again it makes it freezes the player and you must alt tab to get out of the game. The main goal of this project was to have something that I made in c# and just to have fun with it.
